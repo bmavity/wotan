@@ -1,0 +1,23 @@
+{
+  "author": "Brian Mavity <brian@brianmavity.com> (http://www.brianmavity.com)",
+  "contributors": [
+    "Brian Mavity <brian@brianmavity.com> (http://www.brianmavity.com)"
+  ],
+  "description": "An experimental web framework",
+  "dependencies": {
+  },
+  "engines": {
+    "node": "~0.4.0"
+  },
+  "keywords": [
+    "web framework"
+  ],
+  "main": "./lib/wotan.js",
+  "name": "wotan",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bmavity/wotan.git"
+  },
+  "version": "0.0.1"
+}
+
