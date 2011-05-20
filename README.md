@@ -1,2 +1,2 @@
 # wotan
-## An exploratory JavaScript scss implementation
+## An experimental web application framework
